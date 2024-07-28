@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sdf-m47
 - 👀 I’m interested in Tech
-- 🌱 I’m currently learning JavaScript and Python
 
 
 <!---
